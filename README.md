@@ -132,13 +132,5 @@ Hello Alex, this is to inform you that your payment has been completed. Generate
 
 1. Implement both methods.
 2. Try running both from a `main()` method with different values.
-3. Optionally, simulate multithreading and test `StringBuffer` safety (advanced).
+3. Write the JUnit Test calsses.
 
----
-
-Would you like this bundled into:
-
-* A `.java` file?
-* A student-focused `README.md`?
-
-I can prepare both for quick sharing.
